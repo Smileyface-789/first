@@ -1,1 +1,2 @@
 try auto merge
+This is to test auto merging from github
